@@ -95,3 +95,21 @@ python3 experiments/bae_conv_celeba.py \
 # Notebooks
 * We provide some jupyter notebooks used to visualize the results.
 These notebooks can be found in the directory `notebooks`.
+
+
+
+# Citation
+
+When using this repository in your work, please consider citing our paper
+
+```
+@inproceedings{Tran2021,
+  author    = {Tran, Ba-Hien and Rossi, Simone and Milios, Dimitrios and Michiardi, Pietro and Bonilla, Edwin V and Filippone, Maurizio},
+  booktitle = {Advances in Neural Information Processing Systems},
+  pages     = {19730--19742},
+  publisher = {Curran Associates, Inc.},
+  title     = {{Model Selection for Bayesian Autoencoders}},
+  volume    = {34},
+  year      = {2021}
+}
+```
